@@ -29,7 +29,7 @@ const WhyChooseUs = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16 animate-fade-in">
           <h2 className="text-4xl font-bold text-foreground mb-4">
-            ¿Por Qué Elegir ContaPro?
+            ¿Por Qué Elegir San Miguel Contadores?
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             Nos diferenciamos por nuestro compromiso con la excelencia, 
@@ -82,12 +82,12 @@ const WhyChooseUs = () => {
 
             <div className="mt-8 p-6 bg-primary/5 rounded-lg">
               <blockquote className="text-muted-foreground italic">
-                "ContaPro ha sido fundamental en el crecimiento de nuestra empresa. 
+                "San Miguel Contadores ha sido fundamental en el crecimiento de nuestra empresa. 
                 Su profesionalismo y dedicación nos han permitido centrarnos en 
                 nuestro core business con total tranquilidad."
               </blockquote>
               <div className="mt-4 font-semibold text-foreground">
-                — María González, CEO TechSolutions
+                — Leandro Martinez, CEO BridgeSuite Group
               </div>
             </div>
           </div>

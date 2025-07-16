@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
-            <div className="text-2xl font-bold mb-4">ContaPro</div>
+            <div className="text-2xl font-bold mb-4">San Miguel Contadores</div>
             <p className="text-primary-foreground/80 mb-6 leading-relaxed">
               Tu socio estratégico en servicios contables, de auditoría y fiscales. 
               Comprometidos con tu éxito empresarial desde hace más de 15 años.
@@ -45,17 +45,17 @@ const Footer = () => {
             <div className="space-y-3 text-primary-foreground/80">
               <div className="flex items-center">
                 <Phone className="w-4 h-4 mr-2 text-accent" />
-                +34 900 123 456
+                +54 9 11 5309 2157
               </div>
               <div className="flex items-center">
                 <Mail className="w-4 h-4 mr-2 text-accent" />
-                info@contapro.es
+                info@sanmiguelcontadores.com.ar
               </div>
               <div className="flex items-start">
                 <MapPin className="w-4 h-4 mr-2 text-accent mt-0.5 flex-shrink-0" />
                 <div>
-                  Calle Mayor 123, 4º Planta<br />
-                  28013 Madrid, España
+                  Av. Belgrano 1217 piso 10, of. 106<br />
+                  (1093) CABA, Argentina
                 </div>
               </div>
             </div>
@@ -65,7 +65,7 @@ const Footer = () => {
         <div className="border-t border-primary-foreground/20 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-primary-foreground/60 text-sm">
-              © 2024 ContaPro. Todos los derechos reservados.
+              © 2024 San Miguel Contadores. Todos los derechos reservados.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-primary-foreground/60 hover:text-accent text-sm transition-colors">

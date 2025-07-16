@@ -26,7 +26,7 @@ const Contact = () => {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-2xl font-semibold text-primary mb-2">+34 900 123 456</p>
+                <p className="text-2xl font-semibold text-primary mb-2">+54 9 11 5309 2157</p>
                 <p className="text-muted-foreground">Línea directa para consultas urgentes</p>
               </CardContent>
             </Card>
@@ -39,7 +39,7 @@ const Contact = () => {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-2xl font-semibold text-primary mb-2">info@contapro.es</p>
+                <p className="text-2xl font-semibold text-primary mb-2">info@sanmiguelcontadores.com.ar</p>
                 <p className="text-muted-foreground">Respuesta garantizada en 24 horas</p>
               </CardContent>
             </Card>
@@ -53,27 +53,12 @@ const Contact = () => {
               </CardHeader>
               <CardContent>
                 <p className="text-lg font-semibold text-primary mb-2">
-                  Calle Mayor 123, 4º Planta
+                  Av. Belgrano 1217 piso 10, of. 106
                 </p>
-                <p className="text-muted-foreground">28013 Madrid, España</p>
+                <p className="text-muted-foreground">(1093) CABA, Argentina</p>
               </CardContent>
             </Card>
 
-            <Card className="bg-gradient-card shadow-card">
-              <CardHeader>
-                <CardTitle className="flex items-center text-foreground">
-                  <Clock className="w-5 h-5 mr-2 text-accent" />
-                  Horario de Atención
-                </CardTitle>
-              </CardHeader>
-              <CardContent>
-                <div className="space-y-1 text-muted-foreground">
-                  <p><span className="font-medium">Lunes - Viernes:</span> 9:00 - 19:00</p>
-                  <p><span className="font-medium">Sábados:</span> 10:00 - 14:00</p>
-                  <p><span className="font-medium">Emergencias:</span> 24/7</p>
-                </div>
-              </CardContent>
-            </Card>
           </div>
 
           <div className="bg-gradient-card rounded-2xl p-8 shadow-professional animate-slide-up">
