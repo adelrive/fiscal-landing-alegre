@@ -1,6 +1,5 @@
 import { Phone, Mail } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import logoWhite from "@/assets/logo-white.png";
 
 const Navbar = () => {
   return (
@@ -8,11 +7,6 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
-            <img 
-              src={logoWhite} 
-              alt="San Miguel Contadores" 
-              className="h-8 w-auto mr-3"
-            />
             <div className="text-2xl font-bold text-primary">
               San Miguel Contadores
             </div>
